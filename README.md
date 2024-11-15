@@ -29,7 +29,7 @@ pinterest-clone/
 
 1. **Clonar el repositorio:**
 ```sh
-git clone https://tu-repositorio.git
+git clone https://github.com/Valeriagalaviz/pinterest-clon.git
 ```
 2. **Abrir el proyecto:** 
 Accede a la carpeta del proyecto
@@ -49,4 +49,4 @@ Este proyecto es para fines educativos, pero se inspira en la página principal 
 ## Contacto
 Para cualquier pregunta o comentario, puedes contactarme a través de los siguientes medios: 
 - **GitHub**: [Valeriagalaviz](https://github.com/Valeriagalaviz) 
-- **Correo Electrónico**: [correo@ejemplo.com](valeriagalavizrodriguez@gmail.com)
+- **Correo Electrónico**: [valeriagalavizrodriguez@gmail](valeriagalavizrodriguez@gmail.com)
