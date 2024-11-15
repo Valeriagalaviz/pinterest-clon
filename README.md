@@ -40,7 +40,7 @@ cd pinterest-clone
 En Windows: Haz doble clic en el archivo index.html.
 
 4. **Visualización en línea:** 
-Para ver el proyecto en línea, visita:https://pinterest-clon-livid.vercel.app/
+Para ver el proyecto en línea, visita:[https://pinterest-clon-livid.vercel.app/](https://pinterest-clon-livid.vercel.app/)
 
 ## Créditos
 
